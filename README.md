@@ -6,6 +6,7 @@ GUIにwxを使用しています。
 ## 開発言語
 開発言語もPythonを使っています。
 データはdataフォルダに保存されます。
+※ 自分で'data'フォルダを作ってください。
 ## 使い方
 まず,wxPythonライブラリを入れます。
 ### pip install wxPython
