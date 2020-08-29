@@ -1,18 +1,16 @@
 # PythonEdit
-Pythonのコード専用のエディタです。
-GUIにwxを使用しています。
-動かなかったら入れてください。
+An editor dedicated to Python code. I am using wx for the GUI. If it does not move, please insert it.
 
-## 開発言語
-開発言語もPythonを使っています。
-データはdataフォルダに保存されます。
-※ 自分で'data'フォルダを作ってください。
-## 使い方
-まず,wxPythonライブラリを入れます。
+## development language
+The development language also uses Python.
+The data will be saved in the data folder.
+*Please create your own'data' folder.
+## How to use
+First, include the wxPython library.
 ### pip install wxPython
-これでインストーるできない場合,多分パスが通ってないんだと思います。
-なので
-### py -m pip install wxPython 
-でインストールできます。（pip自体インストールできてない場合もあるのでそこは各自でやってください）
+If you can't install it, you probably don't have a pass.
+So
+### py -m pip install wxPython
+You can install it with. (You may not be able to install pip itself, so please do it yourself)
 
-後はこのプログラムを実行すればOKです。
+All you have to do is run this program.
